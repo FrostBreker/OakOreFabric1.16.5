@@ -31,7 +31,7 @@ public class PurpiArmorMaterial implements ArmorMaterial
 
     @Override
     public SoundEvent getEquipSound() {
-        return null;
+        return SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE;
     }
 
     @Override
