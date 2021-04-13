@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    " W ",
+    " W "
+  ],
+  "key": {
+    "A": {
+      "item": "oaksimpleores:purpi_ingot"
+    },
+    "W": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "oaksimpleores:purpi_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "itemGroup.oaksimpleores.oaksimpleores": "OakOres",
+
+  "block.oaksimpleores.greeshis_block": "Block of Greeshis",
+  "block.oaksimpleores.greeshis_ore": "Greeshis Ore",
+  "item.oaksimpleores.greeshis_dust": "Greeshis",
+
+  "block.oaksimpleores.purpi_block": "Block of Purpi",
+  "block.oaksimpleores.purpi_ore": "Purpi Ore",
+  "item.oaksimpleores.purpi_ingot": "Purpi Ingot",
+
+  "item.oaksimpleores.purpi_sword": "Purpi Sword",
+  "item.oaksimpleores.purpi_pickaxe": "Purpi Pickaxe",
+  "item.oaksimpleores.purpi_axe": "Purpi Axe",
+  "item.oaksimpleores.purpi_shovel": "Purpi Shovel",
+  "item.oaksimpleores.purpi_hoe": "Purpi Hoe",
+
+  "item.oaksimpleores.purpi_helmet": "Purpi Helmet",
+  "item.oaksimpleores.purpi_chestplate": "Purpi Chestplate",
+  "item.oaksimpleores.purpi_leggings": "Purpi Leggings",
+  "item.oaksimpleores.purpi_boots": "Purpi Boots"
+}

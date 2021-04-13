@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A A",
+    "A A"
+  ],
+  "key": {
+    "A": {
+      "item": "oaksimpleores:purpi_ingot"
+    }
+  },
+  "result": {
+    "item": "oaksimpleores:purpi_boots",
+    "count": 1
+  }
+}

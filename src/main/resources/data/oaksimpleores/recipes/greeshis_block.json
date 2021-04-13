@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "oaksimpleores:greeshis_dust"
+    }
+  },
+  "result": {
+    "item": "oaksimpleores:greeshis_block",
+    "count": 1
+  }
+}
